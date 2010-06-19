@@ -11,3 +11,5 @@
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
 *340p 중간*
  [변정훈, 정선아]와 => [변정훈, 조연희]와
+*514p 아래에서 세 번째 줄*  ([http://me2day.net/bluesky_lim 성현님]께서 알려주셨습니다.)
+ Atlassian Cover => Atlassian Clover 
