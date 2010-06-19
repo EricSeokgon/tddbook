@@ -5,11 +5,18 @@
 
 *32p* 세번째 줄
  은행계좌(Balance Class) => 은행계좌(Account Class)
+
 *59p* 오류와 실패 이미지
  오른쪽 이미지에 박스가 Errors에 그어져 있음. Failures :1에 그어져야 함
+
+*189p* 소스코드 맨 마지막 줄
+ decrytedPassword => decryptedPassword
+
 *204p* 첫번째 이미지 설명
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
+
 *340p* 중간
  [변정훈, 정선아]와 => [변정훈, 조연희]와
+
 *514p* 아래에서 세 번째 줄  ([http://me2day.net/bluesky_lim 성현님]께서 알려주셨습니다.)
  Atlassian Cover => Atlassian Clover 
