@@ -2,6 +2,7 @@
 
 = 오탈자 안내 = 
 (부제: 부끄러운 기억)
+----
 
 *32p* 세번째 줄
  은행계좌(Balance Class) => 은행계좌(Account Class)
@@ -23,3 +24,5 @@
 
 *514p* 아래에서 세 번째 줄  ([http://me2day.net/bluesky_lim 성현님]께서 알려주셨습니다.)
  Atlassian Cover => Atlassian Clover 
+
+----
