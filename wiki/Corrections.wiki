@@ -15,7 +15,7 @@
 *204p* 첫번째 이미지 설명
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
 
-*338p* 
+*338p* [CollectionTest 오류정정 페이지 참조]
  Case1 설명
 
  기본적으로 컬렉션들은 ~ 되어 있다.
