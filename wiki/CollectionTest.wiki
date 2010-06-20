@@ -49,6 +49,6 @@ public boolean equals(Object o) {
 }
 }}}
 
-List 안에서 객체를 꺼내서 다시 그 객첵의 equals비교를 하는 부분이 while문 중간에 보입니다.
+List 안에서 객체를 꺼내서 다시 그 객체를 equals비교하는 부분이 while문 중간에 보입니다.
 
 컬렉션의 사이즈 비교는 (약간 트릭스럽지만) 맨 마지막 return 문장으로 인해 자연스럽게 판별됩니다. hasNext로 둘 중 하나라도 true가 나오면 ! 조건에 의해 false로 equals가 끝나게 되어 있습니다. 
