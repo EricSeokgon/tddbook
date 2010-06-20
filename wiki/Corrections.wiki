@@ -15,7 +15,7 @@
 *204p* 첫번째 이미지 설명
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
 
-*338p* [CollectionTest 컬렉션 테스트 설명정정]
+*338p* 컬렉션 테스트 설명정정[CollectionTest (추가설명)]
  Case1 설명
 
  기본적으로 컬렉션들은 ~ 되어 있다.
