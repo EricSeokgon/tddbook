@@ -15,8 +15,17 @@
 *189p* 소스코드 맨 마지막 줄
  decrytedPassword => decryptedPassword
 
+*200p* 표 1행 (raccoony 님께서 알려주셧습니다.)
+ 구폰 => 쿠폰
+
+*208p* 마지막 문단 (raccoony 님께서 알려주셧습니다.)
+ 올바른 로직 수행에 판단의 근거로 => 올바른 로직 수행에 대한 판단 근거로 
+
 *204p* 첫번째 이미지 설명
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
+
+*211p* 1번 동그라미 (raccoony 님께서 알려주셧습니다.)
+ 1번 호출될 => 한 번 호출될 
 
 *338p* 컬렉션 테스트 설명정정([CollectionTest 추가설명])
  Case1 설명
