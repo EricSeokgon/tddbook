@@ -14,7 +14,7 @@
 
 *189p* 소스코드 맨 마지막 줄
  decrytedPassword => decryptedPassword
-
+\
 *200p* 표 1행 ^(raccoony 님께서 알려주셧습니다.)^
  구폰 => 쿠폰
 
@@ -26,6 +26,10 @@
 
 *211p* 동그라미 1번 ^(raccoony 님께서 알려주셧습니다.)^
  {{{1}}}번 호출될 => 한 번 호출될
+
+*240p* 위쪽 코드 결과 1행 ^(raccoony 님께서 알려주셧습니다.)^
+ Item => item
+
 
 *338p* 컬렉션 테스트 설명정정([CollectionTest 추가설명])
  Case1 설명
@@ -47,6 +51,10 @@
 
 *373p* 중간 코드의 메소드 이름 띄어쓰기
  test GetActualShippingList => testGetActualShippingList
+
+*405p* 맨 위 소스 2행 ^(raccoony 님께서 알려주셧습니다.)^
+ new Account(Integer.) => new Account(-1000)
+ 단, 위 예제 코드에서 자바 assert 문을 동작시키기 위해서는 -ea 옵션을 실행시에 붙여주셔야 합니다. ea는 enableassertions 옵션의 간략버젼 입니다.
 
 *436p* 밑에서 두 번째 줄 ^(^[http://me2day.net/benelog 정상혁님]^께서 알려주셨습니다.)^
  closer => closure
