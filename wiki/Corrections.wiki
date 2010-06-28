@@ -22,7 +22,7 @@
  구폰 => 쿠폰
 
 *207p 소스코드 중* (by [http://blog.outsider.ne.kr outsider]님)
- ICoupon coupon = new StubCoupon()  => ICoupon coupon = new SpyCoupon() 
+ {{{ICoupon coupon = new StubCoupon()  => ICoupon coupon = new SpyCoupon() }}}
 
 *208p 마지막 문단* (by raccoonyy님)
  올바른 로직 수행에 판단의 근거로 => 올바른 로직 수행에 대한 판단 근거로 
