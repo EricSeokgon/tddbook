@@ -39,7 +39,7 @@
 *282p 제일 마지막 문장* (by [http://suakii.egloos.com/ suakii]님)
  널값 제약(not null contraints) => not null constraint
 
-*334p 주석4번*
+*334p 주석4번*  (by [http://suakii.egloos.com/ suakii]님)
  재귀성(reflelectivity) => reflectivity
 
 *338p 컬렉션 테스트 설명정정*([CollectionTest 추가설명])
