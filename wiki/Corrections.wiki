@@ -70,5 +70,8 @@
 *436p 밑에서 두 번째 줄* (by [http://me2day.net/benelog 정상혁]님)
  closer => closure
 
+*451p 두 번째 질문 6번째 줄 *   (by [http://suakii.egloos.com/ suakii]님)
+ 리팩토링 통해 테스트가 => 리팩토링을 통해 테스트가
+
 *514p 아래에서 세 번째 줄*  (by [http://me2day.net/bluesky_lim 성현]님)
  Atlassian Cover => Atlassian Clover 
