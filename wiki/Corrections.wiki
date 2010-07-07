@@ -31,7 +31,6 @@
  재귀성(reflelectivity) => reflectivity
 *338p 컬렉션 테스트 설명정정*([CollectionTest 추가설명])
  Case1 설명
-
  기본적으로 컬렉션들은 ~ 되어 있다.
  => 기본적으로 컬렉션들은 안에 담겨 있는 객체들을 열거 형태로 꺼내서 순차적 equals 비교를 하게 되어 있다
 
