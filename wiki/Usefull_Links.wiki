@@ -15,8 +15,9 @@
 ----
 
 === for iPhone 개발자 ===
+ [http://code.google.com/p/google-toolbox-for-mac/wiki/iPhoneUnitTesting iPhoneUnitTesting] : 구글에서 제공하는 google-toolbox-for-mac 내에 포함되어 있음
 
-[http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml 구글의 Object-C 코딩 스타일 가이드]
+ [http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml 구글의 Object-C 코딩 스타일 가이드]
 
 === 기타 추가 작성 자료 ===
  [http://tddbook.googlecode.com/files/MoreBankBusiness.pdf Bank Business의 추가 구현 (기능 추가와 리팩토링)]
