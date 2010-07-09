@@ -19,6 +19,3 @@
 
  [http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml 구글의 Object-C 코딩 스타일 가이드]
 ----
-
-=== 기타 추가 작성 자료 ===
- [http://tddbook.googlecode.com/files/MoreBankBusiness.pdf Bank Business의 추가 구현 (기능 추가와 리팩토링)]
