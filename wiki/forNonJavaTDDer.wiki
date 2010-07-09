@@ -22,4 +22,7 @@
  * [http://taehoonkoo.tistory.com/search/OCUnit taehoonkoo님의 블로그] : Phone Development Guide 중 OCUnit에 대한 설명
 
  * [http://dreamjr.org/tt/category/iPhone OCUnit에 대한 이충희님의 블로그]
+
+ * [http://www.pragprog.com/magazines/2010-07/tdd-on-iphone-diy TDD on iPhone DIY] : The Pragmatic Bookshelf의 자료
+
 ----
