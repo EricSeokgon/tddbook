@@ -5,13 +5,13 @@
  [http://code.google.com/p/js-test-driver/ js-test-driver] : 
  구글 개발자들이 만든 자바스크립트 테스트 러너
 
----- 
+----
 
 === 비쥬얼 스튜디오 2010 개발자를 위한 테스트 지원 툴 ===
 
  [http://site.typemock.com/test-lint Test Lint] : 
  Visual Studio 2010에서 Unit Test를 지원해 주는 테스트 어드바이스 툴. 커스텀 Rule도 지원.
----- 
+----
 
 === 기타 추가 작성 자료 ===
  [http://tddbook.googlecode.com/files/MoreBankBusiness.pdf Bank Business의 추가 구현 (기능 추가와 리팩토링)]
