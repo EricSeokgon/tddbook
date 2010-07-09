@@ -18,4 +18,9 @@
  [http://code.google.com/p/google-toolbox-for-mac/wiki/iPhoneUnitTesting iPhoneUnitTesting] : 구글에서 제공하는 google-toolbox-for-mac 내에 포함되어 있음
 
  [http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml 구글의 Object-C 코딩 스타일 가이드]
+
+ [http://developer.apple.com/tools/unittest.html 애플 개발자 사이트의 OCUnit]
+
+ [http://taehoonkoo.tistory.com/search/OCUnit taehoonkoo님의 블로그] : Phone Development Guide 중 OCUnit에 대한 설명
+ [http://dreamjr.org/tt/category/iPhone OCUnit에 대한 이충희님의 블로그]
 ----
