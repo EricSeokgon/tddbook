@@ -2,23 +2,6 @@
 #labels Featured
 
 ----
-=== for 자바 스크립트 개발자 ===
- [http://code.google.com/p/js-test-driver/ js-test-driver] : 
- 구글 개발자들이 만든 자바스크립트 테스트 러너
-
-----
-
-=== for 비쥬얼 스튜디오 2010 개발자 ===
-
- [http://site.typemock.com/test-lint Test Lint] : 
- Visual Studio 2010에서 Unit Test를 지원해 주는 테스트 어드바이스 툴. 커스텀 Rule도 지원.
-----
-
-=== for iPhone 개발자 ===
- [http://code.google.com/p/google-toolbox-for-mac/wiki/iPhoneUnitTesting iPhoneUnitTesting] : 구글에서 제공하는 google-toolbox-for-mac 내에 포함되어 있음
-
- [http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml 구글의 Object-C 코딩 스타일 가이드]
-----
 
 === 기타 추가 작성 자료 ===
  [http://tddbook.googlecode.com/files/MoreBankBusiness.pdf Bank Business의 추가 구현 (기능 추가와 리팩토링)]
