@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
+#참고할 만한 TDD 관련 자료 링크
 
 
-= Details =
+* 비쥬얼 스튜디오 2010 개발자를 위한 테스트 지원 툴 *
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  # [http://site.typemock.com/test-lint Test Lint] 
+Visual Studio 2010에서 Unit Test를 지원해 주는 테스트 어드바이스 툴. 커스텀 Rule도 지원.
