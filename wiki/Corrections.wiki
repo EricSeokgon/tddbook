@@ -12,7 +12,6 @@
 *187p Cipher interface의 메소드 명 * (by jwlee1728님)
  encryption => encrypt, 
  decryption => dedrypt 
-
 *189p 소스코드 맨 마지막 줄* 
  decrytedPassword => decryptedPassword
 *196p 두 번째 문단 다섯 번째 줄*   (by [http://suakii.egloos.com/ suakii]님)
