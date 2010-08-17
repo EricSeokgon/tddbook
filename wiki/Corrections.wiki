@@ -24,7 +24,7 @@
  할인율을 리턴값을 반환해줘야 => 할인율을 리턴값으로 반환해줘야
 *199p 첫번째 코드에서 10번째줄* (by  jslivane님)
  userCoupon.getDiscountRate() => userCoupon.getName()
-*200p 표 1행과 2행* (by raccoonyy님)
+*200p 표 1행과 2행* (by raccoonyy님, mOer님, jslivane님)
  구폰 => 쿠폰, getDiscountRate => getDiscountPercent 
 *204p 첫번째 이미지 설명*
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
@@ -34,8 +34,12 @@
  올바른 로직 수행에 판단의 근거로 => 올바른 로직 수행에 대한 판단 근거로 
 *211p 동그라미 1번* (by raccoonyy님)
  {{{1}}}번 호출될 => 한 번 호출될
+*220p IListener 인터페이스* (by mOer님)
+ int getDocumentSize(String title); 가 추가되어야 함
 *240p 위쪽 코드 결과 1행* (by raccoonyy님)
  Item => item
+*247p 하단 소스코드 맨 마지막 줄*
+ SoundType.LITTLE_NOISY => SoundType.NOISY
 *282p 제일 마지막 문장* (by [http://suakii.egloos.com/ suakii]님)
  널값 제약(not null contraints) => not null constraint
 *334p 주석4번*  (by [http://suakii.egloos.com/ suakii]님)
