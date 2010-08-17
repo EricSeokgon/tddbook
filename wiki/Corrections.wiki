@@ -5,8 +5,14 @@
 
 *32p 세번째 줄*
  은행계좌(Balance Class) => 은행계좌(Account Class)
+*43p 상단 그림속 소스에서 5번째줄* (by  jslivane님)
+  if( account != null){ => if( account == null) 
 *59p 오류와 실패 이미지*
  오른쪽 이미지에 박스가 Errors에 그어져 있음. Failures :1에 그어져야 함
+*68p 3,4번째줄* (by  jslivane님)
+ assertEqauls => assertEquals
+*81p 하단 소스코드 setUp 메소드명* (by  jslivane님)
+ setUp => setup (부연설명: convention rule을 따르기 위해 setup을 setUp으로 바꾸었는데 따로 설명을 기재하지 않았네요)
 *143p 밑에서 두번째 줄* (by raccoonyy님)
  Matchters => Matchers
 *187p Cipher interface의 메소드 명 * (by jwlee1728님)
@@ -16,8 +22,10 @@
  decrytedPassword => decryptedPassword
 *196p 두 번째 문단 다섯 번째 줄*   (by [http://suakii.egloos.com/ suakii]님)
  할인율을 리턴값을 반환해줘야 => 할인율을 리턴값으로 반환해줘야
-*200p 표 1행* (by raccoonyy님)
- 구폰 => 쿠폰
+*199p 첫번째 코드에서 10번째줄* (by  jslivane님)
+ userCoupon.getDiscountRate() => userCoupon.getName()
+*200p 표 1행과 2행* (by raccoonyy님)
+ 구폰 => 쿠폰, getDiscountRate => getDiscountPercent 
 *204p 첫번째 이미지 설명*
  [UsetTest]를 작성할 때 => UserTest를 작성할 때
 *207p 소스코드 중* (by [http://blog.outsider.ne.kr outsider]님)
