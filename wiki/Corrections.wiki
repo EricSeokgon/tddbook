@@ -40,8 +40,12 @@
  Item => item
 *247p 하단 소스코드 맨 마지막 줄*
  SoundType.LITTLE_NOISY => SoundType.NOISY
+*268p 중간 데이터셋 코드 expected_seller.xml * (by mOer님)
+ item이란 테이블을 책 예제에서 사용한 적이 없으므로 <item /> 항목 삭제 
 *282p 제일 마지막 문장* (by [http://suakii.egloos.com/ suakii]님)
  널값 제약(not null contraints) => not null constraint
+*290p 중간 Book 클래스 소스코드 * (by mOer님)
+ super()메소드는 무의미함. 이클립스의 코드 자동생성 기능을 이용해서 생성자를 만들때 끼어들어 갔습니다.p296 Player 클래스 소스코드의 super() 메소드도 마찬가지. 아무 의미가 없음. 
 *334p 주석4번*  (by [http://suakii.egloos.com/ suakii]님)
  재귀성(reflelectivity) => reflectivity
 *338p 컬렉션 테스트 설명정정*([CollectionTest 추가설명])
