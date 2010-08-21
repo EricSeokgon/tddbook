@@ -6,7 +6,7 @@
 *32p 세번째 줄*
  은행계좌(Balance Class) => 은행계좌(Account Class)
 *43p 상단 그림속 소스에서 5번째줄* (by  jslivane님)
-  if( account != null){ => if( account == null) 
+  {{{if( account != null){ => if( account == null) }}}
 *59p 오류와 실패 이미지*
  오른쪽 이미지에 박스가 Errors에 그어져 있음. Failures :1에 그어져야 함
 *68p 3,4번째줄* (by  jslivane님)
