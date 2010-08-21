@@ -101,12 +101,8 @@ if( account != null){ => if( account == null)
  * Case2 설명
  그리고 equals ~ 비교한다. 그리고~ => 그런데 equals 비교 시 대상이 되는 객체의 toString 값으로 비교할 수 있으면 편리할 때가 있다.
 *340p 중간*
-{{{
  * [변정훈, 정선아]와 => [변정훈, 조연희]와
-}}}
-{{{
  * 이유는 ~ 때문이다. => 이유는 여전히 ArrayList 클래스의 equals가 사용되어서 listA와 listB에 포함된 객체가 각각 순차적으로 equals로 비교되고 있기 때문이다. assertEquals의 메시지는 실패시에 표시되는 toString 메시지이다.
-}}}
 *373p 중간 코드의 메소드 이름 띄어쓰기*
  test GetActualShippingList => testGetActualShippingList
 *405p 맨 위 소스 2행* (by raccoonyy님)
