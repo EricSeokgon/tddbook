@@ -112,6 +112,10 @@ if( account != null){ => if( account == null)
  new Account(Integer.) => new Account(-1000)
 }}}
  참고로, 위 예제 코드에서 자바 assert 문을 동작시키기 위해서는 -ea 옵션을 실행시에 붙여주셔야 합니다. ea는 enableassertions 옵션의 간략버젼 입니다.
+*405p 저자한마디 중 두 번째 문단* 
+{{{
+ 간결한 언어를 지양하는 => 간결한 언어를 지향하는
+}}}
 *436p 밑에서 두 번째 줄* (by [http://me2day.net/benelog 정상혁]님)
 {{{
  closer => closure
