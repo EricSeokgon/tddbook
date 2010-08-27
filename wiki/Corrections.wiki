@@ -116,6 +116,10 @@ if( account != null){ => if( account == null)
 {{{
  간결한 언어를 지양하는 => 간결한 언어를 지향하는
 }}}
+*406p 위에서 세번째 줄* 
+{{{
+ unsigned 어떻게 되고 => unsigned가 어떻게 되고
+}}}
 *436p 밑에서 두 번째 줄* (by [http://me2day.net/benelog 정상혁]님)
 {{{
  closer => closure
