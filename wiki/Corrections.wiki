@@ -101,7 +101,8 @@ if( account != null){ => if( account == null)
  * Case2 설명
  그리고 equals ~ 비교한다. 그리고~ (코드 나오기 전까지)=> 그리고 컬렉션은 equals 비교시에 원소를 하나씩 꺼내서 다시 각각에 대해 equals 비교를 한다. 그런데 담긴 객체가 이미 equals를 중첩구현해 놓았다면 문제가 없지만, 그렇지 않을경우 제대로 비교가 안된다. 이럴때는 toString 메소드를 이용해서 문자열로 비교할 수 있게 하면 편하다. 
 
-(주석) 컬렉션들의 부모가 되는 AbstractCollection 클래스의 toString은 내부 원소들의 toString 값을 [ ]안에 나열하게 되어 있다.
+*밑에서 세 번째 줄 toString 값으로 비교한다. 문자뒤에 (주석)
+컬렉션들의 상위클래스에 해당하는 AbstractCollection 클래스의 toString 메소드는 내부 원소들의 toString 값을 [ ]안에 나열하도록 구현되어 있다.
 
 *340p 중간*
  * [변정훈, 정선아]와 => [변정훈, 조연희]와
