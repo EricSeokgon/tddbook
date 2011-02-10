@@ -9,7 +9,14 @@
  * 파워콤 TPS 구축 프로젝트
  * 범한판토스 글로벌 물류 프로젝트
 
-(현)LG CNS 경영기술교육원 전문기술교육팀 전임강사
+* 현재 *
+ * LG CNS 경영기술교육원 전문기술교육팀 전임강사
+ * LG CNS Agile Coach
+
+== 전문분야 ==
+ * Object-Oriented SW Design
+ * Agile Development
+ * 
 
 = Book =
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구
@@ -18,14 +25,14 @@
 = Tech Blog =
  * [http://blod.doortts.com 여름으로 가는 문]
 
-= 교육과정 개발 및 강의 =
+== 교육과정 개발 및 강의 ==
  * LG CNS 신입 기술교육 (DB과정, WepApp 과정)
  * SE를 위한 DB 실무
  * 분석설계 실무자 과정
  * 디자인패턴 & 리팩터링
  * Agile 적용실무
 
-= 사외 교육, 세미나 및 외부활동 =
+== 사외 교육, 세미나 및 외부활동 ==
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned
