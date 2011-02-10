@@ -16,7 +16,7 @@
 == 전문분야 ==
  * Object-Oriented SW Design
  * Agile Development
- * 
+ * Team Performance
 
 = Book =
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구
