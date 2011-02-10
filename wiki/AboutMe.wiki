@@ -32,7 +32,7 @@
  * 디자인패턴 & 리팩터링
  * Agile 적용실무
 
-== 사외 교육, 세미나 및 외부활동 ==
+== 사외 교육, 세미나 ==
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned
