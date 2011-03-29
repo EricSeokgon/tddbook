@@ -1,6 +1,8 @@
-#summary About me : 채수원 (Chae Suwon)
+#summary About me
 
 = About me =
+
+채수원 (Chae Suwon)
 
 * 프로젝트 이력 *
  * 국민 건강보험 프로젝트
