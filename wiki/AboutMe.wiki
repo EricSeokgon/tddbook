@@ -13,7 +13,7 @@
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
  * LG CNS Agile Coach
 
-== Speciality ==
+== Specialty ==
  * Object-Oriented SW Design
  * Agile Development
  * Team Performance
