@@ -13,7 +13,7 @@
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
  * LG CNS Agile Coach
 
-== 전문분야 ==
+== Speciality ==
  * Object-Oriented SW Design
  * Agile Development
  * Team Performance
@@ -22,14 +22,14 @@
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구
  [http://tddbook.com http://tddbook.com]
 
-== 교육과정 개발 및 강의 ==
+== Lecture ==
  * LG CNS 신입 기술교육 (DB과정, WepApp 과정)
  * SE를 위한 DB 실무
  * 분석설계 실무자 과정
  * 디자인패턴 & 리팩터링
  * Agile 적용실무
 
-== 사외 교육, 세미나 ==
+== External Activity & Seminars ==
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned
