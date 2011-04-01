@@ -35,7 +35,7 @@
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned
- * MC연구소 : 자바로 배우는 효율적인 객체지향 프로그래밍 
+ * MC연구소 : Effective OOP 
  * HE사업부 : Software Engineering 
 
 * OSC China *
