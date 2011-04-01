@@ -31,7 +31,7 @@
  * 디자인패턴 & 리팩터링
  * Agile 적용실무
 
-== External Activity & Seminars ==
+== External Activity: Lecture & Seminars ==
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned
