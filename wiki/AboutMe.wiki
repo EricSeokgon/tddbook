@@ -37,6 +37,9 @@
  * Agile Gathering : Pair Programming, lessons Learned
  * MC연구소 : 자바로 배우는 효율적인 객체지향 프로그래밍 
 
+* OSC Chana *
+ * Effective SW Development with Agile
+
 * IBM developerWorks *
  * Using Mock Object to test (screen cast)
  * 생산적인 개발 노하우 나누기 : 이상한 나라의 개발자
