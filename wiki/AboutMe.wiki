@@ -37,7 +37,7 @@
  * Agile Gathering : Pair Programming, lessons Learned
  * MC연구소 : 자바로 배우는 효율적인 객체지향 프로그래밍 
 
-* OSC Chana *
+* OSC China *
  * Effective SW Development with Agile
 
 * IBM developerWorks *
