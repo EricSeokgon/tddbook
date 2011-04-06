@@ -26,7 +26,7 @@
  [http://tddbook.com http://tddbook.com]
 
 == Lecture ==
- * LG CNS 신입 기술교육 (DB과정, WepApp 과정)
+ * LG CNS 신입 기술교육 
  * SE를 위한 DB 실무
  * 분석설계 실무자 과정
  * 디자인패턴 & 리팩터링
