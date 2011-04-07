@@ -17,9 +17,9 @@
  * LG CNS Agile Coach
 
 == Specialty ==
- * Object-Oriented SW Design
- * Agile Development
- * Team Performance Development
+ * 객체지향 설계(Object-Oriented SW Design)
+ * 애자일 개발(Agile Development)
+ * 팀 생산성 향상(Team Performance Development)
 
 = Book =
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구
