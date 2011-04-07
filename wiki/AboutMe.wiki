@@ -35,26 +35,26 @@
 == External Activity: Lecture & Seminars ==
 
 * LG 전자 *
- * Agile Gathering : Pair Programming, lessons Learned
- * MC연구소 : Effective OOP 
- * HE사업부 : Software Engineering 
+ * Agile Gathering : Pair Programming, lessons Learned (세미나)
+ * MC연구소 : Effective OOP (강의)
+ * HE사업부 : Software Engineering (강의) 
 
 * OSC China *
- * Effective SW Development with Agile
+ * Effective SW Development with Agile (강의)
 
 * IBM developerWorks *
  * Using Mock Object to test (screen cast)
- * 생산적인 개발 노하우 나누기 : 이상한 나라의 개발자
- * 엔터프라이즈 애자일(Enterprise agile : Not to be angry monkeys) [https://www.ibm.com/developerworks/mydeveloperworks/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/resource/EnterpriseAgile.pdf [Link]]
+ * 생산적인 개발 노하우 나누기 : 이상한 나라의 개발자 (세미나)
+ * 엔터프라이즈 애자일(Enterprise agile : Not to be angry monkeys) (세미나)[https://www.ibm.com/developerworks/mydeveloperworks/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/resource/EnterpriseAgile.pdf [Link]]
 
-* KSUG 세미나 *
- * Testable SW Design
+* KSUG *
+ * Testable SW Design (세미나)
 
 * 한빛미디어 *
- * 테스트 주도 개발(TDD) 실전 프로그래밍
+ * 테스트 주도 개발(TDD) 실전 프로그래밍 (강의)
 
 * BnB *
- * Practical TDD learning
+ * Practical TDD learning (워크샵)
 
 * Actus *
- * 애자일 소프트웨어 개발
+ * 애자일 소프트웨어 개발 (워크샵)
