@@ -3,7 +3,7 @@
 = About me =
 
 이름: 채수원(Chae Suwon)
-<img src='http://code.google.com/p/tddbook/source/browse/wiki/images/email.png'>
+<img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
 
 * 주요 프로젝트 이력 *
  * 국민 건강보험 프로젝트
