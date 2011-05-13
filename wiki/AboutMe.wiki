@@ -58,3 +58,6 @@
 
 * Actus *
  * 애자일 소프트웨어 개발 (워크샵)
+
+* WHOIS(주) *
+ * 팀개발을 위한 TDD & Pair Programming (세미나)
