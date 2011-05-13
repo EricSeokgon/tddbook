@@ -3,6 +3,7 @@
 = About me =
 
 이름: 채수원(Chae Suwon)
+
 <img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
 
 * 주요 프로젝트 이력 *
