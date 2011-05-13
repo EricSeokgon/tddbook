@@ -32,7 +32,7 @@
  * 디자인패턴 & 리팩터링
  * Agile 적용실무
 
-== External Activity : Lecture & Seminars (최근 2년이내)==
+== External Activity : Lecture & Seminars (최근 2년)==
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned (세미나)
