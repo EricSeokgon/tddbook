@@ -25,7 +25,7 @@
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구, 한빛미디어(2010)
  [http://tddbook.com http://tddbook.com]
 
-== Lecture ==
+== Lecture : Internel Courses ==
  * LG CNS 신입 기술교육 
  * SE를 위한 DB 실무
  * 분석설계 실무자 과정
