@@ -2,8 +2,8 @@
 
 = About me =
 
-채수원(Chae Suwon)
- <img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
+이  름: 채수원(Chae Suwon)
+이메일: <img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
 
 * 주요 프로젝트 이력 *
  * 국민 건강보험 프로젝트
