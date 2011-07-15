@@ -34,7 +34,7 @@
 
 == External Activity : Lecture & Seminars (최근 2년)==
 
-* JCO
+* JCO Conference
  * TDD & Testable Design (2010, speaker)
  * MongoDB with Play! (2011, speacker)
 
@@ -73,4 +73,4 @@
 
 .
 
-- Last modified 2011.5 -
+- Last modified 2011.7 -
