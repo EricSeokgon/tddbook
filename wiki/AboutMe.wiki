@@ -34,12 +34,12 @@
 
 == External Activity : Lecture & Seminars (최근 2년)==
 
-* JCO Conference
+* JCO Conference *
  * TDD & Testable Design (2010, speaker)
  * MongoDB with Play! (2011, speacker)
 
-* 아키텍처대회 (2011)
- * 기업에서의 Agile Practice & TDD (speaker)
+* 아키텍처대회 *
+ * 기업에서의 Agile Practice & TDD (2011, speaker)
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned (세미나)
