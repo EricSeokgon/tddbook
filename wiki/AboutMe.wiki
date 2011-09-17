@@ -71,7 +71,7 @@
 * 후이즈(WHOIS) *
  * 팀개발을 위한 TDD & Pair Programming (세미나)
 
-* NexG *
+* 넥스지(NexG) *
  * 실습으로 배우는 애자일 개발 (강의)
 
 
