@@ -35,6 +35,8 @@
  * Agile 적용실무
 
 == External Activity : Lecture & Seminars (최근 2년)==
+* DEVIEW 2011*
+ * NHN 애자일 개발 어떻게 진행하고 있나? (2011, speacker with NHN생산성혁신랩 멤버)
 
 * JCO Conference *
  * TDD & Testable Design (2010, speaker)
@@ -72,7 +74,7 @@
  * 팀개발을 위한 TDD & Pair Programming (세미나)
 
 * 넥스지(NexG) *
- * 실습으로 배우는 애자일 팀 (강의)
+ * 실습으로 배우는 애자일 (강의)
 
 
 .
