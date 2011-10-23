@@ -36,7 +36,7 @@
 
 == External Activity : Lecture & Seminars (최근 2년)==
 * DEVIEW 2011 *
- * NHN 애자일 개발 프로세스 (2011, speacker with NHN생산성혁신랩 멤버) [deview.kr/2011/ [Link]]
+ * NHN 애자일 개발 프로세스 (2011, speacker with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
 
 * JCO Conference *
  * TDD & Testable Design (2010, speaker)
@@ -81,4 +81,4 @@
 
 .
 
-- Last modified 2011.9 -
+- Last modified 2011.10 -
