@@ -35,8 +35,8 @@
  * Agile 적용실무
 
 == External Activity : Lecture & Seminars (최근 2년)==
-* DEVIEW 2011*
- * NHN 애자일 개발 어떻게 진행하고 있나? (2011, speacker with NHN생산성혁신랩 멤버)
+* DEVIEW 2011 [deview.kr/2011/ [Link]]*
+ * NHN 애자일 개발 프로세스 (2011, speacker with NHN생산성혁신랩 멤버)
 
 * JCO Conference *
  * TDD & Testable Design (2010, speaker)
