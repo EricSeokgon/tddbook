@@ -14,7 +14,7 @@
  * 범한판토스 글로벌 물류 프로젝트
 
 * History *
- * (현) NHN 생산성 혁신랩
+ * (현) NHN 생산성 혁신랩 소속
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
  * LG CNS Agile Coach
 
