@@ -6,7 +6,7 @@
  * <img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
  * twitter.com/doortts 
 
-* 엔지니어로 알했던 주요 프로젝트 *
+* 엔지니어로 참여했던 주요 프로젝트 *
  * 국민 건강보험 프로젝트 
  * 등기 전산화 프로젝트 
  * 집행관 시스템 프로젝트 
