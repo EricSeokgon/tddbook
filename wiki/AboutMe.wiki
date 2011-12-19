@@ -15,6 +15,7 @@
 
 * History *
  * (현) NHN 생산성 혁신랩 소속
+   *nFORGE 프로젝트 아키텍트
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
  * LG CNS Agile Coach
 
@@ -27,7 +28,7 @@
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구, 한빛미디어(2010) [http://www.yes24.com/24/goods/3908398 [Link]]
  [http://tddbook.com http://tddbook.com]
 
-== Lecture : Internel Courses ==
+== Lecture : Internel Courses (Past)==
  * LG CNS 신입 기술교육 
  * SE를 위한 DB 실무
  * 분석설계 실무자 과정
@@ -81,4 +82,4 @@
 
 .
 
-- Last modified 2011.10 -
+- Last modified 2011.12 -
