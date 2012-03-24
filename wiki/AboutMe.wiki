@@ -68,6 +68,9 @@
 * BnB *
  * Practical TDD learning (워크샵)
 
+* 미래소프트
+ * 팀개발을 위한 TDD & Pair Programming
+
 * Actus *
  * 테스트 주도 개발 (워크샵)
 
@@ -77,9 +80,10 @@
 * 넥스지(NexG) *
  * 실습으로 배우는 애자일 (강의)
 
+* SW 진흥협회
+ * MongoDB로 배우는 NoSQL (강의)
+
 
 .
 
-.
-
-- Last modified 2011.12 -
+- Last modified 2012.3 -
