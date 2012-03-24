@@ -46,7 +46,7 @@
  * MongoDB with Play! (2011, speacker) [http://blog.doortts.com/176 [Link]]
 
 * 아키텍처대회 *
- * 기업에서의 Agile Practice & TDD (2011, speaker)
+ * 기업에서의 Agile Best Practice (2011, speaker)
 
 * LG 전자 *
  * Agile Gathering : Pair Programming, lessons Learned (세미나)
