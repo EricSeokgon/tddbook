@@ -30,12 +30,19 @@
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구, 한빛미디어(2010) [http://www.yes24.com/24/goods/3908398 [Link]]
  [http://tddbook.com http://tddbook.com]
 
-== Lecture : Internel Courses (Past)==
- * LG CNS 신입 기술교육 
- * SE를 위한 DB 실무
- * 분석설계 실무자 과정
- * 디자인패턴 & 리팩터링
- * Agile 적용실무
+== Lecture : Internel Courses ==
+
+ * NHN
+  * Agile Bootcamp
+  * Scrum 이해와 실습
+  * Test-Driven Development 이론과 실습
+ * LG CNS (Past)
+  * LG CNS 신입 기술교육 
+  * SE를 위한 DB 실무
+  * 분석설계 실무자 과정
+  * 디자인패턴 & 리팩터링
+  * Agile 적용실무
+
 
 == External Activity : Lecture & Seminars (2010년 이후)==
 * DEVIEW 2011 *
