@@ -30,7 +30,7 @@
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구, 한빛미디어(2010) [http://www.yes24.com/24/goods/3908398 [Link]]
  [http://tddbook.com http://tddbook.com]
 
-== Lecture : Internel Courses ==
+== Lectures : Internel Courses ==
 
  * NHN
   * Agile Bootcamp
@@ -44,7 +44,7 @@
   * Agile 적용실무
 
 
-== External Activity : Lecture & Seminars (2010년 이후)==
+== External Activity : Lectures & Seminars (2010년 이후)==
 * DEVIEW 2011 *
  * NHN 애자일 개발 프로세스 (2011, speacker with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
 
