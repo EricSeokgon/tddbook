@@ -37,7 +37,7 @@
  * 디자인패턴 & 리팩터링
  * Agile 적용실무
 
-== External Activity : Lecture & Seminars (최근 2년)==
+== External Activity : Lecture & Seminars (2010년 이후)==
 * DEVIEW 2011 *
  * NHN 애자일 개발 프로세스 (2011, speacker with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
 
