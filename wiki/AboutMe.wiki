@@ -70,7 +70,7 @@
 * BnB *
  * Practical TDD learning (워크샵)
 
-* 미래소프트
+* 미래소프트 *
  * 팀개발을 위한 TDD & Pair Programming
 
 * Actus *
