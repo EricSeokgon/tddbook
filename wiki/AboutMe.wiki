@@ -46,7 +46,7 @@
 
 == External Activity : Lectures & Seminars (2010년 이후)==
 * Agile Korea 2011 *
- * 애자일 실천법에 대한 만담 (2011, speaker, with 황상철[http://deview.kr/2011/ [Link]]
+ * 애자일 실천법에 대한 만담 (2011, speaker, with 황상철 님)
 
 * DEVIEW 2011 *
  * NHN 애자일 개발 프로세스 (2011, speaker, with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
