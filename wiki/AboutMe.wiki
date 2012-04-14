@@ -18,6 +18,7 @@
  * (현) NHN Open Publishing팀
    * nFORGE 프로젝트 아키텍트 
  * NHN 생산성 혁신랩
+   * Agile Coach
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
  * LG CNS Agile Coach
 
