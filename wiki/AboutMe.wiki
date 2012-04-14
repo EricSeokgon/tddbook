@@ -7,9 +7,10 @@
  * twitter.com/doortts 
 
 * Expertise *
- * Agile Coaching 
+ * Agile Coaching
+ * SW Analysis & Design 
  * TDD
- * Java, Oracle DB, Node.js
+ * Node.js
 
 * 엔지니어로 참여했던 주요 프로젝트 *
  * 국민 건강보험 프로젝트 
