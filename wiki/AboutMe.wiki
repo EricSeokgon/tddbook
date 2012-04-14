@@ -4,6 +4,7 @@
 
  * 채수원(Chae Suwon)
  * <img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
+ * http://blog.doortts.com
  * twitter.com/doortts 
 
 * Expertise *
