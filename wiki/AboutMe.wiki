@@ -27,7 +27,7 @@
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
  * LG CNS Agile Coach
 
-== Specialty ==
+== High Performer at ..  ==
  * 객체지향 설계(Object-Oriented SW Design)
  * 애자일 개발(Agile Development)
  * 팀 생산성 향상(Team Performance Development)
