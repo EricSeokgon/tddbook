@@ -44,6 +44,7 @@
   * Agile Bootcamp
   * Scrum 이해와 실습
   * Test-Driven Development 이론과 실습
+  * node.js 
  * *LG CNS (Past)*
   * LG CNS 신입 기술교육 
   * SE를 위한 DB 실무
