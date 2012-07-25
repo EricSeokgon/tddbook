@@ -105,7 +105,7 @@
  * MongoDB로 배우는 NoSQL (강의)
 
 * 부산 영산대 *
- * Real Time Web Application (강의)
+ * Real Time Web Application Game 만들기(강의)
 
 .
 
