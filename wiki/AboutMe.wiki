@@ -11,7 +11,7 @@
  * Agile Coaching
  * SW Analysis & Design 
  * TDD
- * Node.js
+ * Node.js (Korea node.js community 'OctoberSkyJs' Leader)
 
 * History *
  
@@ -104,7 +104,9 @@
 * SW 진흥협회*
  * MongoDB로 배우는 NoSQL (강의)
 
+* 부산 영산대 *
+ * Real Time Web Application (강의)
 
 .
 
-- Last modified 2012.3 -
+- Last modified 2012.7 -
