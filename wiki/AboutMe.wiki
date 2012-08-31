@@ -38,7 +38,7 @@
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구, 한빛미디어(2010) [http://www.yes24.com/24/goods/3908398 [Link]]
  [http://tddbook.com http://tddbook.com]
 
-== Lectures : Internel Courses ==
+== Internel Lectures ==
 
  * *NHN*
   * Agile Bootcamp
