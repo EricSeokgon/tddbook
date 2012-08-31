@@ -11,7 +11,7 @@
  * Agile Coaching
  * SW Analysis & Design 
  * TDD
- * Node.js (Korea node.js community 'OctoberSkyJs' Leader)
+ * Node.js (Korea node.js community [http://www.facebook.com/octoberskyjs ['OctoberSkyJs']] Leader)
 
 * History *
  
