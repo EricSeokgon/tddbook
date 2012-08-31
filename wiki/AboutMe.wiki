@@ -75,6 +75,9 @@
 * OSC China *
  * Effective SW Development with Agile (강의)
 
+* 삼성 SDS *
+ * TDD & Refactoring (강의)
+
 * IBM developerWorks *
  * Using Mock Object to test (screen cast)
  * 생산적인 개발 노하우 나누기 : 이상한 나라의 개발자 (발표)
@@ -107,6 +110,5 @@
 * 부산 영산대 *
  * Real Time Web Application Game 만들기(강의)
 
-.
 
 - Last modified 2012.7 -
