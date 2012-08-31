@@ -95,7 +95,7 @@
  * Practical TDD learning (워크샵)
 
 * 미래소프트 *
- * 팀개발을 위한 TDD & Pair Programming
+ * 팀개발을 위한 TDD & Pair Programming (강의)
 
 * Actus *
  * 테스트 주도 개발 (워크샵)
