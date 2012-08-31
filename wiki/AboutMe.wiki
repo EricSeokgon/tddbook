@@ -76,7 +76,7 @@
  * Effective SW Development with Agile (강의)
 
 * 삼성 SDS *
- * [Advanced] TDD & Refactoring (강의)
+ * (AJP) TDD & Refactoring (강의)
 
 * IBM developerWorks *
  * Using Mock Object to test (screen cast)
