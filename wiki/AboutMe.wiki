@@ -56,13 +56,13 @@
 
 
 == External Activity : Lectures & Seminars (2010년 이후)==
-* Agile Korea 2011 *
+* Agile Korea *
  * 애자일 실천법에 대한 만담 (2011, speaker, with 황상철 님)
 
-* DEVIEW 2011 *
+* DEVIEW *
  * NHN 애자일 개발 프로세스 (2011, speaker, with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
 
-* JCO Conference *
+* JCO 컨퍼런스 *
  * TDD & Testable Design (2010, speaker)
  * MongoDB with Play Framework! (2011, speaker) [http://blog.doortts.com/176 [Link]]
 
