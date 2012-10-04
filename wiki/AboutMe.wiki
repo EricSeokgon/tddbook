@@ -2,10 +2,11 @@
 
 = About me =
 
- * 채수원(Chae Suwon)
- * <img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
+채수원(Chae Suwon)
+
+<img src='http://tddbook.googlecode.com/svn/wiki/images/email.png'>
  * http://blog.doortts.com
- * twitter.com/doortts 
+ * [http://twitter.com/doortts twitter.com/doortts]
 
 * Expertise *
  * Agile Coaching
