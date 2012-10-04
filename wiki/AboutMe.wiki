@@ -63,9 +63,9 @@
  * 애자일 실천법에 대한 만담 (2011, speaker, with 황상철 님)
  * TDD 실천법과 도구, 2년뒤 Lessons & Learned (2012, speaker)
 
-* DEVIEW *
+* DEVIEW, NHN *
  * NHN 애자일 개발 프로세스 (2011, speaker, with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
- * node.js를 이용한 단일언어 기반 웹 애플리케이션 개발 ((2012, speaker) [http://deview.kr/2012/xe/index.php?mid=track&document_srl=417&time_srl=267 [Link]]
+ * node.js를 이용한 단일언어 기반 웹 애플리케이션 개발 (2012, speaker) [http://deview.kr/2012/xe/index.php?mid=track&document_srl=417&time_srl=267 [Link]]
 
 * JCO 컨퍼런스 *
  * TDD & Testable Design (2010, speaker)
