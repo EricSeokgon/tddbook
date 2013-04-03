@@ -12,12 +12,12 @@
  * Agile Coaching
  * SW Analysis & Design 
  * TDD
- * Node.js (Korea node.js community [http://www.facebook.com/octoberskyjs OctoberSkyJs] Leader)
+ * Node.js (Contributor, Korea node.js community [http://www.facebook.com/octoberskyjs OctoberSkyJs] Leader)
 
 * History *
  
  * (현) NHN 기술혁신센터 기술전략팀
-   * nFORGE 프로젝트 아키텍트 
+   * HIVE(구 nFORGE) 프로젝트 아키텍트 
  * NHN 생산성 혁신랩
    * Agile Coach
  * LG CNS 경영기술교육원 전문기술교육팀 전임강사
