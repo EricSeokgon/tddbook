@@ -90,6 +90,10 @@
 
 * 삼성 SDS *
  * (AJP) TDD & Refactoring (강의)
+ * (AJP) Effective OOP (강의)
+
+* SK Planet *
+ * 예제로 배우는 Refactoring (강의)
 
 * IBM developerWorks *
  * Using Mock Object to test (screen cast)
