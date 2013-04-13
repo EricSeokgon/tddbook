@@ -37,7 +37,6 @@
 
 = Book =
  * 테스트 주도개발 : (고품질 쾌속개발을 위한) TDD 실천법과 도구, 한빛미디어(2010) [http://www.yes24.com/24/goods/3908398 [Link]]
- [http://tddbook.com http://tddbook.com]
  * 애자일 초심자를 위한 '애자일 SW개발 101' (공동집필) [http://www.software.kr/mbs/swkr/jsp/board/view.jsp?spage=1&boardId=143&boardSeq=888076&mcategoryId=&id=swkr_040100000000 [Link]]
  * 애자일 이펙트 (집필중) [http://blog.doortts.com/272 [Link]]
 
