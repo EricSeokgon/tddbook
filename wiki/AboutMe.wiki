@@ -20,7 +20,7 @@
    * HIVE(구 nFORGE) 프로젝트 아키텍트 
  * NHN 생산성 혁신랩
    * Agile Coach
- * LG CNS 경영기술교육원 전문기술교육팀 전임강사
+ * LG CNS 경영기술교육원 전문기술교육팀
  * LG CNS Agile Coach
 
 * 과거에 엔지니어로 참여했던 주요 프로젝트 *
