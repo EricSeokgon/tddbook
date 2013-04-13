@@ -94,6 +94,7 @@
 
 * SK Planet *
  * 예제로 배우는 Refactoring (강의)
+ * 실습으로 배우는 테스트 주도 개발 (강의)
 
 * IBM developerWorks *
  * Using Mock Object to test (screen cast)
