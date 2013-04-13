@@ -58,7 +58,7 @@
   * Agile 적용실무
 
 
-== External Activity : Lectures & Seminars (2010년 이후)==
+== External Activity (2010년 이후)==
 * Agile Korea *
  * 애자일 실천법에 대한 만담 (2011, speaker)
  * TDD 실천법과 도구, 2년뒤 - Lessons & Learned (2012, speaker)
