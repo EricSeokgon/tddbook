@@ -74,7 +74,7 @@
  * Google AngularJS와 Yeoman을 이용한 웹 개발(2012, speaker)
 
 * JCO 컨퍼런스 *
- * TDD & Testable Design (2010, speaker)
+ * Testable SW Design (2010, speaker)
  * MongoDB with Play Framework! (2011, speaker) [http://blog.doortts.com/176 [Link]]
 
 * 아키텍처대회 *
@@ -101,26 +101,11 @@
  * 생산적인 개발 노하우 나누기 : 이상한 나라의 개발자 (발표)
  * 엔터프라이즈 애자일(Enterprise agile : Not to be angry monkeys) (발표)[https://www.ibm.com/developerworks/mydeveloperworks/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/resource/EnterpriseAgile.pdf [Link]]
 
-* KSUG *
- * Testable SW Design (발표)
-
-* 한빛미디어 *
- * 테스트 주도 개발(TDD) 실전 프로그래밍 (강의)
-
-* BnB *
- * Practical TDD learning (워크샵)
-
-* 미래소프트 *
- * 팀개발을 위한 TDD & Pair Programming (2012, 강의)
-
-* Actus *
- * 테스트 주도 개발 (워크샵)
-
 * 후이즈(WHOIS) *
  * 팀개발을 위한 TDD & Pair Programming (세미나)
 
-* 넥스지(NexG) *
- * 실습으로 배우는 애자일 (강의)
+* 한빛미디어 *
+ * 테스트 주도 개발(TDD) 실전 프로그래밍 (강의)
 
 * SW 진흥협회*
  * MongoDB로 배우는 NoSQL (2011, 2012, 강의)
