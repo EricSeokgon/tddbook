@@ -101,9 +101,6 @@
  * 생산적인 개발 노하우 나누기 : 이상한 나라의 개발자 (발표)
  * 엔터프라이즈 애자일(Enterprise agile : Not to be angry monkeys) (발표)[https://www.ibm.com/developerworks/mydeveloperworks/blogs/9e635b49-09e9-4c23-8999-a4d461aeace2/resource/EnterpriseAgile.pdf [Link]]
 
-* 후이즈(WHOIS) *
- * 팀개발을 위한 TDD & Pair Programming (세미나)
-
 * 한빛미디어 *
  * 테스트 주도 개발(TDD) 실전 프로그래밍 (강의)
 
