@@ -93,6 +93,7 @@
 * 삼성 SDS *
  * (Advanced Java Programming) TDD & Refactoring (강의)
  * (Advanced Java Programming) Effective OOP (강의)
+ * Clean Code & Code Review (사례 발표)
 
 * SK Planet *
  * 예제로 배우는 Refactoring (강의)
