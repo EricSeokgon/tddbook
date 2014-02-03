@@ -17,7 +17,7 @@
 * History *
  
  * (현) NAVER Labs 개발자서비스 개발Lab TL(Technical Leader)
-   * [https://yobi.io] 프로젝트 책임자 및 개발리더 
+   * [http://yobi.io] 프로젝트 책임자 및 개발리더 
  *  NHN 기술혁신센터 기술전략팀
  * NHN 생산성 혁신랩
    * Agile Coach
