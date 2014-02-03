@@ -9,15 +9,16 @@
  * [http://twitter.com/doortts twitter.com/doortts]
 
 * Expertise *
- * Agile Coaching
  * SW Analysis & Design 
+ * Agile Coaching
  * Test-Driven Development(TDD)
  * Node.js (node.js contributor & Korea node.js community [http://www.facebook.com/octoberskyjs OctoberSkyJs] Leader)
 
 * History *
  
- * (현) NHN 기술혁신센터 기술전략팀
-   * [https://github.com/nforge/hive HIVE](구 nFORGE) 프로젝트 책임자 및 개발리더 
+ * (현) NAVER Labs 개발자서비스 개발Lab TL(Technical Leader)
+   * [https://yobi.io] 프로젝트 책임자 및 개발리더 
+ *  NHN 기술혁신센터 기술전략팀
  * NHN 생산성 혁신랩
    * Agile Coach
  * LG CNS 경영기술교육원 전문기술교육팀
@@ -42,13 +43,13 @@
 
 == Internel Lectures ==
 
- * *NHN*
-  * Agile Bootcamp
-  * Scrum 이해와 실습
+ * *NAVER(NHN)*
   * Test-Driven Development 이론과 실습
   * 사례로 배우는 Agile Software Development
   * 클린코드를 만드는 코드 리뷰
   * 서버사이드 자바크립트 node.js
+  * Agile Bootcamp
+  * Scrum 이해와 실습
 
  * *LG CNS (Past)*
   * LG CNS 신입 기술교육 
@@ -66,6 +67,7 @@
 * DEVIEW, NHN *
  * NHN 애자일 개발 프로세스 (2011, speaker, with NHN생산성혁신랩 멤버) [http://deview.kr/2011/ [Link]]
  * node.js를 이용한 단일언어 기반 웹 애플리케이션 개발 (2012, speaker) [http://deview.kr/2012/xe/index.php?mid=track&document_srl=417&time_srl=267 [Link]]
+ * 협업 SW개발 플랫폼 Yobi (2013, speaker) [http://deview.kr/2013/detail.nhn?topicSeq=18 [Link]]
 
 * TechPlanet, SK Planet *
  * Node.js, HTML5와 MVVM 프레임워크(AngularJs)를 이용해서 실시간 협업 태스크보드 만들기 (2012, speaker)[http://techplanet.kr/speaker.html#a11 [Link]]
@@ -116,4 +118,10 @@
 * 숭실대학교 *
  * 개발자 커리어 (2012, 강의)
 
-- Last modified 2013.4 -
+* 제주대학교 *
+ * Real Time Web Application (2013, 강의)
+
+* 경북대학교 *
+ * Real Time Web Application (2013, 강의)
+
+- Last modified 2014.2 -
